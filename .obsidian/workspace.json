@@ -11,15 +11,46 @@
             "id": "57c60827b21b2f3a",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Вложения/Чивита1.png"
+              }
+            }
+          },
+          {
+            "id": "b2c1825382e66638",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Вложения/Чивита2.png"
+              }
+            }
+          },
+          {
+            "id": "1e489fd125153fb5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Вложения/Чивита1.png"
+              }
+            }
+          },
+          {
+            "id": "74d9917a4a4fc8a5",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекция 2.md",
+                "file": "Символ Леви-Чивиты.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Лекция 2.md",
+                "file": "Символ Леви-Чивиты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Лекция 2.md",
+                "file": "Символ Леви-Чивиты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Лекция 2.md"
+                "file": "Символ Леви-Чивиты.md"
               }
             }
           }
@@ -148,9 +179,16 @@
   },
   "active": "a76c6a5148a58bcc",
   "lastOpenFiles": [
+    "Вложения/Чивита1.png",
+    "Символ Леви-Чивиты.md",
+    "Вложения/Чивита2.png",
+    "Лекция 2.md",
     "Лекция 3.md",
-    "Лекция 5.md",
     "Лекция 4.md",
+    "Лекция 5.md",
+    "Лекция 1.md",
+    "Задачи с пояснением.md",
+    "Символ Леви-Чевиты",
     "Вложения/L5/L5_1.png",
     "Вложения/L5/L5_9.png",
     "Вложения/L5",
