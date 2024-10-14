@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Символ Леви-Чивиты.md",
+                "file": "Задачи с пояснением.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Символ Леви-Чивиты.md",
+                "file": "Задачи с пояснением.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Символ Леви-Чивиты.md",
+                "file": "Задачи с пояснением.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Символ Леви-Чивиты.md"
+                "file": "Задачи с пояснением.md"
               }
             }
           }
@@ -177,15 +177,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a76c6a5148a58bcc",
+  "active": "74d9917a4a4fc8a5",
   "lastOpenFiles": [
+    "Вложения/IMG_2063.jpeg",
     "Вложения/Чивита1.png",
+    "Электромагнитное поле в веществе.md",
+    "Энергия_и_импульс_электромагнитного_поля.md",
     "Символ Леви-Чивиты.md",
+    "README.md",
+    "Лекция 5.md",
     "Вложения/Чивита2.png",
     "Лекция 2.md",
     "Лекция 3.md",
     "Лекция 4.md",
-    "Лекция 5.md",
     "Лекция 1.md",
     "Задачи с пояснением.md",
     "Символ Леви-Чевиты",
